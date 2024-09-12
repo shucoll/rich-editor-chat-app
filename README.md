@@ -47,7 +47,7 @@ npm install
 
 Setup a .env.local file in root(client/) and add
 ```sh
-REACT_APP_BACKEND_URL=http://localhost:4000/
+REACT_APP_BACKEND_URL=http://localhost:5000/
 ```
 
 Run the app in the development mode.
